@@ -1,0 +1,12 @@
+server:
+  port: 8001
+spring:
+  #热部署
+  devtools:
+    restart:
+      enabled: true
+      
+wechat:
+  appId: wx4262b0777e35a2ae
+  appSecret: 2328e2c5d02c09a8433d66a9d2ffa437
+  
